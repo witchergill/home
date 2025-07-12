@@ -87,9 +87,9 @@ ui <- fluidPage(
            )
     ),
     column(width = 4,
-           tags$a(href = "http://168.231.115.18:3838/superplay_report", target = "_self",
+           tags$a(href = "http://168.231.115.18:3838/bangla_report", target = "_self",
                   div(class = "tile superplay-tile",
-                      h2("SuperPlay"))
+                      h2("Betvoro Bangla"))
            )
     )
   )
